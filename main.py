@@ -27,7 +27,7 @@ print("Score: " + str(score))
 if input(question[1]) is answer[1]:
     print("You're correct!")
     score = score + 1
-# elif score is 0:
+elif score is 0:
     score = 0
 else:
     print("Sorry, better luck next time.")
