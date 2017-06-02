@@ -100,11 +100,11 @@ else:
     score = score - 1
 print("Score = " + str(score))
 
-written_question = input ("1. What does the U.S.S.R stand for? \n")
-
-written_answer = ["Union of Soviet Socialist Republic \n"]
-
-# Question 11 (Bonus)
-if input (written_question) = str(written_answer[1])
-    score = score + 5
+# written_question = input ("1. What does the U.S.S.R stand for? \n")
+#
+# written_answer = ["Union of Soviet Socialist Republic \n"]
+#
+# # Question 11 (Bonus)
+# if input (written_question) = str(written_answer[1])
+#     score = score + 5
 
